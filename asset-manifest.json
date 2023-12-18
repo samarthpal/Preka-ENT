@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Preka-ENT/static/css/main.4b7b2016.css",
-    "main.js": "/Preka-ENT/static/js/main.b663d9a7.js",
+    "main.js": "/Preka-ENT/static/js/main.049166f4.js",
     "static/media/back.png": "/Preka-ENT/static/media/back.eb7f94b0e4bde1f397af.png",
     "static/media/youtube.png": "/Preka-ENT/static/media/youtube.1ee2f39b02cee665a3e2.png",
     "static/media/facebook.png": "/Preka-ENT/static/media/facebook.0d6ca15b859dca340ad1.png",
@@ -9,10 +9,10 @@
     "static/media/logo.png": "/Preka-ENT/static/media/logo.89668113f992abef61ef.png",
     "index.html": "/Preka-ENT/index.html",
     "main.4b7b2016.css.map": "/Preka-ENT/static/css/main.4b7b2016.css.map",
-    "main.b663d9a7.js.map": "/Preka-ENT/static/js/main.b663d9a7.js.map"
+    "main.049166f4.js.map": "/Preka-ENT/static/js/main.049166f4.js.map"
   },
   "entrypoints": [
     "static/css/main.4b7b2016.css",
-    "static/js/main.b663d9a7.js"
+    "static/js/main.049166f4.js"
   ]
 }
